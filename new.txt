@@ -2,3 +2,5 @@
 2 hp
 3 asus
 4 acer
+5 samsung
+6 lenovo
