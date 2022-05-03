@@ -6,3 +6,5 @@
 6 lenovo
 lg
 apple
+gui gui
+epam
